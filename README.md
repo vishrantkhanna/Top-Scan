@@ -22,6 +22,9 @@ or
 ```
 
 
+# Screenshots
+![alt text](https://github.com/vishrantkhanna/Top-Scan/blob/master/resources/topscan.png)
+
 # Credits
 [Vishrant Khanna](https://github.com/vishrantkhanna) <br>
 [Heath Adams](https://github.com/hmaverickadams)
