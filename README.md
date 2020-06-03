@@ -23,7 +23,7 @@ or
 
 
 # Screenshots
-![alt text](https://github.com/vishrantkhanna/Top-Scan/blob/master/resources/topscan.png)
+![Screenshot of Top Scan Tool](https://github.com/vishrantkhanna/Top-Scan/blob/master/resources/topscan.png)
 
 # Credits
 [Vishrant Khanna](https://github.com/vishrantkhanna) <br>
