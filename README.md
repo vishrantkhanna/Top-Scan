@@ -27,6 +27,7 @@ or
 
 # Credits
 [Vishrant Khanna](https://github.com/vishrantkhanna) <br>
+[Saurabh Sethi](https://github.com/saurabhsethi1102) <br>
 [Heath Adams](https://github.com/hmaverickadams)
 
 
