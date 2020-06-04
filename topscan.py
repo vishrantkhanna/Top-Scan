@@ -16,7 +16,6 @@ top_banner_tool_desc_text = ("A python script that finds out which ports might b
 top_banner_tool_desc = terminal_banner.Banner(top_banner_tool_desc_text)
 print(top_banner_tool_desc)
 
-print("\n")
 print("Scanning top ports....")
 
 top_ports = {
@@ -88,9 +87,9 @@ def banner(target):
     print("Time started: " + str(strtTime))
     print("-" * 50)
 
-    print("\n")
+    print(". \n")
     scanner(target, top_ports)
-    print("\n")
+    print(".")
     
     print("-" * 50)
     endTime = datetime.now()
