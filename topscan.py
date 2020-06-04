@@ -84,9 +84,17 @@ def targetHost():
 def banner(target):
     print("-" * 50)
     print("Scanning target " + target)
-    print("Time started: " + str(datetime.now()))
+    strtTime = str(datetime.now())
+    print("Time started: " + strtTime)
     print("-" * 50)
     scanner(target, top_ports)
+    print("-" * 50)
+    endTime = str(datetime.now())
+    print("Time Ended: " + endTime)
+    totalTime = endTime-strtTime
+    print("Total Time Taken: " + totalTime)
+    print("-" * 50)
+
 
 
 def scanner(target, top_ports):
