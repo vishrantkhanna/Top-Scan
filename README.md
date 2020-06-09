@@ -1,5 +1,5 @@
 # Top-Scan
-A python script that finds out which ports might be open on a server. Written in Python 3.
+Top Scan is an open-source utility for port discovery and security auditing. Systems and network administrators will find it useful for tasks such as monitoring hosts.
 
 # Installing
 Ideally, you should be able to just type:
